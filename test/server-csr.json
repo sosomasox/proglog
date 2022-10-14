@@ -1,0 +1,20 @@
+{
+  "CN": "127.0.0.1",
+  "hosts": [
+    "localhsot",
+    "127.0.0.1"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "OU": "Distributed Services",
+      "O":  "My Awesome Company",
+      "L":  "Machida-shi",
+      "ST": "Tokyo",
+      "C":  "JP"
+    }
+  ]
+}
